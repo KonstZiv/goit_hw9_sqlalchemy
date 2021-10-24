@@ -193,3 +193,5 @@ $RECYCLE.BIN/
 *.lnk
 # Dotenv - os env 
 .env
+#Alembic
+alembic.ini
